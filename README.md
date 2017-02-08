@@ -3,7 +3,7 @@ SegueHandlerHelper
 A better way to handle segue identifier.
 Maybe should not type idetifier handly.
 
-> Idea：[https://www.natashatherobot.com/protocol-oriented-segue-identifiers-swift](https://www.natashatherobot.com/protocol-oriented-segue-identifiers-swift/#)
+> Idea & Thanks：[https://www.natashatherobot.com/protocol-oriented-segue-identifiers-swift](https://www.natashatherobot.com/protocol-oriented-segue-identifiers-swift/#)
 
 Installation
 ===
