@@ -8,9 +8,9 @@ Maybe should not type idetifier handly.
 Installation
 ===
 1. Carthage:   
-github "qiuncheng/SegueHandlerHelper" ~> 0.1.0
+`github "qiuncheng/SegueHandlerHelper" ~> 0.1.0`
 2. CocoaPods:  
-pod 'SegueHandlerHelper'
+`pod 'SegueHandlerHelper'`
 
 Use
 === 
