@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "SegueHandlerHelper"
-  s.version      = "1.0"
+  s.version      = "1.0.0"
   s.summary      = "A better way to handle segue identifier. "
 
   s.description  = <<-DESC
