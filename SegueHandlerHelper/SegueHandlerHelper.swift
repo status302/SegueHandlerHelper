@@ -23,7 +23,7 @@ public extension SegueHandlerHelper where Self: UIViewController,
     public func identifier(for segue: UIStoryboardSegue) -> SegueIdentifierType {
         guard let identifier = segue.identifier,
             let segueIdentifier = SegueIdentifierType(rawValue: identifier) else {
-            fatalError("Invalid identifier: \(segue.identifier)")
+            fatalError("Invalid identifier: \(String(describing: segue.identifier))")
         }
         return segueIdentifier
     }
