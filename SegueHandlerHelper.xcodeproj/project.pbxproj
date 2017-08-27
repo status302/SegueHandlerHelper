@@ -24,6 +24,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3F40B4461F52FC2A00C3296C /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		3F40B4471F52FC2A00C3296C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		3F40B4481F52FC2A00C3296C /* SegueHandlerHelper.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = SegueHandlerHelper.podspec; sourceTree = "<group>"; };
 		F261764D1E4A29BD00B0E5CD /* SegueHandlerHelper.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SegueHandlerHelper.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F26176501E4A29BD00B0E5CD /* SegueHandlerHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SegueHandlerHelper.h; sourceTree = "<group>"; };
 		F26176511E4A29BD00B0E5CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -55,6 +58,9 @@
 		F26176431E4A29BD00B0E5CD = {
 			isa = PBXGroup;
 			children = (
+				3F40B4461F52FC2A00C3296C /* LICENSE */,
+				3F40B4471F52FC2A00C3296C /* README.md */,
+				3F40B4481F52FC2A00C3296C /* SegueHandlerHelper.podspec */,
 				F261764F1E4A29BD00B0E5CD /* SegueHandlerHelper */,
 				F261765A1E4A29BD00B0E5CD /* SegueHandlerHelperTests */,
 				F261764E1E4A29BD00B0E5CD /* Products */,
